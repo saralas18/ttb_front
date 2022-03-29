@@ -5,7 +5,7 @@ __Installation des dependencies pour le projet__
 ```
 npm install
 ```
-__Lancement de notre application sur votre serveur local__
+______Lancement de notre application sur votre serveur local__
 ```
 npm run serve
 ```
